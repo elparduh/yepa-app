@@ -59,7 +59,7 @@ android {
             versionName flutterVersionName
             applicationIdSuffix '.staging'
             versionNameSuffix '.staging'
-            resValue "string", "app_name", "Yepa-Stg"
+            resValue "string", "app_name", "Yepa STG"
         }
     }
 

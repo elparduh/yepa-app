@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:878879254776:android:66018937246500a134730d",
+        "mobilesdk_app_id": "1:878879254776:android:f2c1d7b51b00bccb34730d",
         "android_client_info": {
-          "package_name": "mx.parduh.yepa"
+          "package_name": "mx.parduh.yepa.staging"
         }
       },
       "oauth_client": [],

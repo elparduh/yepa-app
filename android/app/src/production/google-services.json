@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209896890158",
+    "project_id": "yepa-3e9c9",
+    "storage_bucket": "yepa-3e9c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209896890158:android:ac01684589aea70c2864bf",
+        "android_client_info": {
+          "package_name": "mx.parduh.yepa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOf9AFye4Bfq5VnSD7pE20ubwkiPa9T2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
